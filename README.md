@@ -18,7 +18,7 @@ Getting Started:
 * nodecg start
 
 # Project Structure:
-
+```plaintext
 NodeCG/
 ├── bundles/               # Your NodeCG bundles (features and components)
 │   ├── text-bundle/       # add new bundle for test

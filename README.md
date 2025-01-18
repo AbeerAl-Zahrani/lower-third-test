@@ -17,7 +17,7 @@ Getting Started:
 * Install dependencies(npm install)
 * nodecg start
 
-Project Structure:
+# Project Structure:
 
 NodeCG/
 ├── bundles/               # Your NodeCG bundles (features and components)

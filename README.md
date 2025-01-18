@@ -10,10 +10,9 @@ Before getting started, ensure you have the following installed:
 * npm (v8.x or higher recommended)
 * A modern browser (for viewing the dashboard and graphic)
 
-Getting Started:
+# Getting Started:
 
-* Clone the repository
-* cd NodeCG
+* Clone the repository into your NodeCG instance's bundles directory.
 * Install dependencies(npm install)
 * nodecg start
 

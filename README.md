@@ -19,16 +19,13 @@ Before getting started, ensure you have the following installed:
 # Project Structure:
 ```plaintext
 NodeCG/
-├── bundles/               # Your NodeCG bundles (features and components)
-│   ├── text-bundle/       # add new bundle for test
-│   │   ├── dashboard/     # Dashboard files (e.g., HTML, JS, CSS)
-│   │   ├── graphics/      # Overlay graphics (e.g., HTML, JS, CSS)
-│   │   ├── extension/index.js   # Server-side logic for the bundle
-│   │   └── package.json   # Metadata and dependencies for the bundle
-├── cfg/                   # Configuration files (e.g., config.json)
-├── node_modules/          # Dependencies installed via npm
-├── package.json           # Project metadata and dependencies
-├── README.md              # This file
+├── bundles/             # Your NodeCG bundles (features and components)
+  ├── text-bundle/       # add new bundle for test
+  │   ├── dashboard/     # Dashboard files (e.g., HTML, JS, CSS)
+  │   ├── graphics/      # Overlay graphics (e.g., HTML, JS, CSS)
+  │   ├── extension/index.js   # Server-side logic for the bundle
+  │   └── package.json   # Metadata and dependencies for the bundle
+  ├── README.md          # This file
 
 
 

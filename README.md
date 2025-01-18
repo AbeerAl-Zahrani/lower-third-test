@@ -12,10 +12,10 @@ Before getting started, ensure you have the following installed:
 
 Getting Started:
 
-1-Clone the repository
-2-cd NodeCG
-3-Install dependencies(npm install)
-4-nodecg start
+* Clone the repository
+* cd NodeCG
+* Install dependencies(npm install)
+* nodecg start
 
 Project Structure:
 
